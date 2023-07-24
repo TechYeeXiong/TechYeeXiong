@@ -6,7 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/TechYeeXiong/TechYee)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TechYeeXiong/TechYeeXiongLifeCycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Using VPN in a virtual machine for better security](https://github.com/TechYeeXiong/VPN-in-VM)
 
 <h2>🤳Connect with me:</h2>
 
