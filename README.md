@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/DanielRodriguezIT/osTicketPostConfiguration)
+  - [osTicket: Post-Installation Configuration](https://github.com/TechYeeXiong/TechYee)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TechYeeXiong/TechYeeXiongLifeCycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
