@@ -7,9 +7,9 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TechYeeXiong/TechYeeXiongLifeCycle)
 - <b>Microsoft Azure</b>
   - [Using VPN in a virtual machine for better security](https://github.com/TechYeeXiong/VPN-in-VM)
+  - [Network Security Groups(NSG) and filtering traffic in Wireshark using network Protocols](https://github.com/TechYeeXiong/NSG_Network)
 
 <h2>🤳Connect with me:</h2>
-
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
