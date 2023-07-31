@@ -9,6 +9,7 @@
   - [Using VPN in a virtual machine for better security](https://github.com/TechYeeXiong/VPN-in-VM)
   - [Network Security Groups(NSG) and filtering traffic in Wireshark using network Protocols](https://github.com/TechYeeXiong/NSG_Network)
   - [Creating On Premise Active Directory in Azure's Virtual Machine](https://github.com/TechYeeXiong/OnPremiseActiveDirectoryInAzure)
+  - [Building intuition for DNS](https://github.com/TechYeeXiong/DNS)
 
 <h2>🤳Connect with me:</h2>
 
