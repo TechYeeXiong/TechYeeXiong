@@ -10,6 +10,7 @@
   - [Network Security Groups(NSG) and filtering traffic in Wireshark using network Protocols](https://github.com/TechYeeXiong/NSG_Network)
   - [Creating On Premise Active Directory in Azure's Virtual Machine](https://github.com/TechYeeXiong/OnPremiseActiveDirectoryInAzure)
   - [Building intuition for DNS](https://github.com/TechYeeXiong/DNS)
+  - [FileSharesAndPermissions](https://github.com/TechYeeXiong/FileSharesAndPermissoins)
 
 <h2>🤳Connect with me:</h2>
 
