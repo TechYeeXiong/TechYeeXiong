@@ -11,6 +11,7 @@
   - [Creating On Premise Active Directory in Azure's Virtual Machine](https://github.com/TechYeeXiong/OnPremiseActiveDirectoryInAzure)
   - [Building intuition for DNS](https://github.com/TechYeeXiong/DNS)
   - [FileSharesAndPermissions](https://github.com/TechYeeXiong/FileSharesAndPermissoins)
+  - [VulnerabilityManagement](https://github.com/TechYeeXiong/VulnerabilityManagement)
 
 <h2>🤳Connect with me:</h2>
 
